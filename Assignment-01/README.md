@@ -199,5 +199,3 @@ Follow each step exactly as written, using the provided absolute paths.
 2. Show the calendar for **December 2025**.
 
 ---  
-> - Pay attention to file names, paths, and case sensitivity.  
-> - Clean, well-organized screenshots will help validate your work.
